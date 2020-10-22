@@ -18,6 +18,8 @@ public class Human {
     private boolean skin;
     private boolean muscles;
 
+
+
     public Human(String name, String lastName, int lungs, int heart, int stomach, int eyes, int legs, int arms, boolean hair, int fingers, boolean skin, boolean muscles) {
         this.name = name;
         this.lastName = lastName;
