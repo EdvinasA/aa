@@ -3,7 +3,7 @@ package com.company1;
 
 public class Human {
 
-    private String name;
+    private String names;
     private String lastName;
     private int lungs;
     private int heart;
